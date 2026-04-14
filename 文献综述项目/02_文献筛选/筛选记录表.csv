@@ -1,0 +1,146 @@
+﻿文献ID,题目,年份,类别,是否纳入重点池,排除原因,是否进Introduction,是否进Related Work,是否支撑Fig.1/Fig.2框架定位,是否作为“非路径生成/非普通参数研究”对照证据,备注
+C001,Supportless 3D-printing of non-planar thin-walled structures with the multi-axis screw-extrusion additive manufacturing system,2024,A;B,是,,是,是,是,是,
+C002,Non-planar additive manufacturing with hydrogels: a review of flow control and toolpath strategies,2025,A,是,,是,是,是,是,
+C003,Contact-Force-Based Closed-Loop Control of Multi-Axis Additive Manufacturing With Continuous-Fiber-Reinforced Polymer,2025,A;B;C,是,,是,是,是,是,
+C004,"Machine learning techniques in additive manufacturing: a state of the art review on design, processes and production control",2022,A;B;C;D;E,是,,是,是,是,是,
+C005,Extrusion under material uncertainty with pressure-based closed-loop feedback control in robotic concrete additive manufacturing,2025,A;B;C,是,,是,是,是,是,
+C006,Invertible neural networks for real-time control of extrusion additive manufacturing,2023,B;C;D,是,,是,是,是,是,
+C007,Force controlled printing for material extrusion additive manufacturing,2024,B;C,是,,是,是,是,是,
+C008,Optical Process Control for extrusion-based Additive Manufacturing methods in construction,2023,B;C,是,,是,是,是,是,
+C009,Mitigating domain shift in online process monitoring for material extrusion additive manufacturing via transfer learning,2024,B;C;D,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C010,Determination of Design Limitations of Curved Profiles Manufactured by Robotics Non-Planar Additive Manufacturing,2024,A,是,,是,是,是,是,
+C011,Stress flow guided non-planar print trajectory optimization for additive manufacturing of anisotropic polymers,2023,A;B;D,是,,是,是,是,是,
+C012,Non-planar material-extrusion additive manufacturing of multifunctional sandwich structures using carbon-reinforced polyetheretherketone (PEEK),2024,A;B,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C013,NON-PLANAR TOOLPATH FOR LARGE SCALE ADDITIVE MANUFACTURING,2021,A,是,,是,是,是,是,
+C014,Stress Flow Guided Non-Planar Print Trajectory Optimization for Additive Manufacturing of Anisotropic Polymers,2023,A;B;D,是,,是,是,是,是,
+C015,Self-support structure topology optimization for multi-axis additive manufacturing incorporated with curved layer slicing,2025,A;D,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C016,Aerial additive manufacturing with multiple autonomous robots,2022,A;B;C;D;E,是,,是,是,是,是,
+C017,"Concrete 3D Printing: Process Parameters for Process Control, Monitoring and Diagnosis in Automation and Construction",2023,B;C;E,是,,是,是,是,是,
+C018,Vision-based real-time monitoring of extrusion additive manufacturing processes for automatic manufacturing error detection,2021,B;C,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C019,Real-time process monitoring and error correction in material extrusion-based additive manufacturing via multi-output machine learning,2025,B;C,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C020,Strand width uniformly control for silicone extrusion additive manufacturing based on image processing,2022,B;D,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C021,A layerwise monitoring methodology based on blue laser line profilometer for Material Extrusion processes,2023,B;C;E,是,,是,是,是,是,
+C022,Characterization of Surface Topography Features for the Effect of Process Parameters and Their Correlation to Quality Monitoring in Metal Additive Manufacturing,2022,B;C;E,是,,是,是,是,是,
+C023,"Non-planar additive manufacturing: A comprehensive review of path planning, system integration, process control, and applications",2025,A,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C024,Development of a print head for non-planar additive manufacturing of carbon fiber-reinforced polymers,2025,A;B,是,,是,是,是,是,
+C025,Digital laser printing and sintering of silver nanoparticle inks for the additive manufacturing of micro-conductive patterns on non-planar patterned flexible substrates,2022,A;C,是,,是,是,是,是,
+C026,Non-planar additive manufacturing continuous fiber reinforced composite curved grid structure and its impact characterization,2026,A,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C027,Design for additive manufacturing: Framework and methodology,2020,A;B;C;E,是,,是,是,是,是,
+C028,Additive manufacturing of structural materials,2021,A;B;C;D,是,,是,是,是,是,
+C029,Machine learning in additive manufacturing: State-of-the-art and perspectives,2020,A;C;D;E,是,,是,是,是,是,
+C030,Large-format additive manufacturing of polymer extrusion-based deposition systems: review and applications,2023,A;B,是,,是,是,是,是,
+C031,Emerging metallic systems for additive manufacturing: In-situ alloying and multi-metal processing in laser powder bed fusion,2021,A;B;C;D,是,,是,是,是,是,
+C032,Stability and deformations of deposited layers in material extrusion additive manufacturing,2021,A;B,否,相关性较低/主题重复,否,否,否,否,
+C033,A Sensorized Soft Pneumatic Actuator Fabricated with Extrusion-Based Additive Manufacturing,2021,B;C,是,,是,是,是,是,
+C034,Recent Advances in In Situ 3D Surface Topographical Monitoring for Additive Manufacturing Processes,2025,C;E,是,,是,是,否,否,
+C035,"Linking Process Parameters, Structure, and Properties in Material Extrusion Additive Manufacturing of Polymers and Composites: A Review",2025,B;C,是,,是,是,是,是,
+C036,Data-driven linear quadratic tracking based temperature control of a big area additive manufacturing system,2024,C;D,是,,是,是,是,否,
+C037,Real-time defect monitoring in material extrusion 3D printing using optimized YOLO models,2025,B;C,是,,是,是,是,是,
+C038,"A comparative analysis between material extrusion and other additive manufacturing techniques: Defects, microstructure and corrosion behavior in nickel alloy 625",2022,B;C,是,,是,是,是,是,
+C039,Large-scale additive manufacturing tooling for extrusion-compression molds,2021,B;C,是,,是,是,是,是,
+C040,Closed-Loop Control of Extrusion-Based Bioprinting Through Real-Time Computer Vision,2025,B;C,是,,是,是,是,是,
+C041,Evaluating the cost competitiveness of metal additive manufacturing – A case study with metal material extrusion,2023,B;D,是,,是,是,是,是,
+C042,"The effect of six key process control parameters on the surface roughness, dimensional accuracy, and porosity in material extrusion 3D printing of polylactic acid: Prediction models and optimization supported by robust design analysis",2022,B;D,是,,是,是,是,是,
+C043,In-process density measurement for model-based process optimization of functionally graded foam microcellular structures in material extrusion additive manufacturing,2025,B;D;E,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C044,On the laser additive manufacturing of high-entropy alloys: A critical assessment of in-situ monitoring techniques and their suitability,2023,C;E,是,,是,是,否,否,
+C045,Nanocomposites with Optimized Polytetrafluoroethylene Content as a Reinforcement Agent in PA12 and PLA for Material Extrusion Additive Manufacturing,2023,B;E,是,,否,是,是,是,
+C046,Powder bed monitoring via digital image analysis in additive manufacturing,2023,C;E,是,,是,是,否,否,
+C047,Process monitoring and machine learning for defect detection in laser-based metal additive manufacturing,2023,C;E,是,,是,是,否,否,
+C048,Context awareness in process monitoring of additive manufacturing using a digital twin,2022,C;E,是,,是,是,否,否,
+C049,Towards intelligent monitoring system in wire arc additive manufacturing: a surface anomaly detector on a small dataset,2022,C;E,是,,是,是,否,否,
+C050,Non-planar additive manufacturing of pre-impregnated continuous fiber reinforced composites using a three-axis printer,2024,A,否,相关性较低/主题重复,否,否,否,否,
+C051,Additive manufacturing of non-planar layers with variable layer height,2020,A;B,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C052,Non-planar multinozzle additive manufacturing of thermoset composite microscaffold networks,2023,A;B,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C053,A fully automatic non-planar slicing algorithm for the additive manufacturing of complex geometries,2023,A,否,相关性较低/主题重复,否,否,否,否,
+C054,Quasi-Uniform Density Non-Solid Infill Strategy for Axisymmetric Non-Planar Additive Manufacturing,2025,A,否,相关性较低/主题重复,否,否,否,否,
+C055,Flexible and High-Precision Integration of Inserts by Combining Subtractive and Non-Planar Additive Manufacturing of Polymers,2022,A,否,相关性较低/主题重复,否,否,否,否,
+C056,Investigation and transformation of traditional fused deposition modeling apparatus to a non-planar additive manufacturing methodology,2025,A,否,相关性较低/主题重复,否,否,否,否,
+C057,Axisymmetric non-planar slicing and path planning strategy for robot-based additive manufacturing,2024,A,否,相关性较低/主题重复,否,否,否,否,
+C058,Non-planar slicing algorithm based on AABB and OBB bounding boxes for additive manufacturing,2025,A,否,相关性较低/主题重复,否,否,否,否,
+C059,"Non-planar 5-axis directional additive manufacturing of plastics: Machine, process, and tool path",2024,A,否,相关性较低/主题重复,否,否,否,否,
+C060,A Set of Novel Procedures for Carbon Fiber Reinforcement on Complex Curved Surfaces Using Multi Axis Additive Manufacturing,2022,A,否,相关性较低/主题重复,否,否,否,否,
+C061,Curved-Layer Slicing and Continuous Path Planning for Multi-Axis Printing of Fiber-Reinforced Composite Structures,2025,A,否,相关性较低/主题重复,否,否,否,否,
+C062,Influencing the Mechanical Properties of Fused Filament Fabrication Parts by Non-Planar Material Extrusion,2021,A;B,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C063,A continuous toolpath strategy from offset contours for robotic additive manufacturing,2023,A,否,相关性较低/主题重复,否,否,否,否,
+C064,Plastic recycling in additive manufacturing: A systematic literature review and opportunities for the circular economy,2020,A;C;D,是,,是,是,是,是,
+C065,"Additive manufacturing: Technology, applications, markets, and opportunities for the built environment",2020,A;C;E,是,,是,是,是,是,
+C066,Additive Manufacturing Applications for Industry 4.0: A Systematic Critical Review,2020,A;B;E,是,,是,是,是,是,
+C067,Toward autonomous additive manufacturing: Bayesian optimization on a 3D printer,2021,A;C;D,是,,是,是,是,是,
+C068,Integrated approach to Wire Arc Additive Manufacturing (WAAM) optimization: Harnessing the synergy of process parameters and deposition strategies,2024,A;B;D,是,,是,是,是,是,
+C069,Improving surface quality and mechanical strength through the optimization and enhancement of Fused Deposition Modelling (FDM) for non-planar 3D printing,2025,A;B;D,是,,是,是,是,是,
+C070,Path smoothing and feed rate planning for robotic curved layer additive manufacturing,2020,A;B,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C071,Real-time multiscale prediction of structural performance in material extrusion additive manufacturing,2021,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C072,Accelerating heat transfer modeling in material extrusion additive manufacturing: From desktop to big area,2022,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C073,Spatiotemporal deep learning using infrared thermography for real-time monitoring and process parameter adjustment in material extrusion,2025,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C074,In-process laser scanning for defect detection in material extrusion additive manufacturing,2025,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C075,Optimization of Laser Direct Structuring Process Parameters for Material Extrusion of Polycarbonate,2023,B;C;D,是,,是,是,是,是,
+C076,In-situ point cloud fusion for layer-wise monitoring of additive manufacturing,2021,C;E,是,,是,是,否,否,DOI或PDF缺失项已标待核验
+C077,"Temperature, diffusion, and stress modeling in filament extrusion additive manufacturing of polyetherimide: An examination of the influence of processing parameters and importance of modeling assumptions",2021,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C078,Food 3D printing based on machine vision with dynamic control of extrusion to improve print quality,2025,B;C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C079,"Vision on metal additive manufacturing: Developments, challenges and future trends",2023,C;D;E,是,,是,是,是,否,
+C080,A deep learning-based model for defect detection in laser-powder bed fusion using in-situ thermographic monitoring,2020,C;D;E,是,,是,是,是,否,
+C081,Controllable inverse design of auxetic metamaterials using deep learning,2021,D,是,,是,是,是,否,
+C082,Machine learning to predict interface adhesion between dissimilar materials in multi-material extrusion additive manufacturing,2025,B;D,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C083,Optimization of Extrusion-Based 3D Printing Process Using Neural Networks for Sustainable Development,2021,B;D;E,是,,是,是,是,是,
+C084,"Process monitoring by deep neural networks in directed energy deposition: CNN-based detection, segmentation, and statistical analysis of melt pools",2023,C;D;E,是,,是,是,是,否,
+C085,Morphological and microstructural investigation of the non-planar interface formed in solid-state metal additive manufacturing by additive friction stir deposition,2020,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C086,Additive manufacturing of non-planar layers using isothermal surface slicing,2023,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C087,Path Planning Design for Robot Based Non-Planar Additive Manufacturing Case Study: Coronary Stent,2025,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C088,Design for Robot-Based Non-Planar Additive Manufacturing Case Study: Soft Robotics Gripper,2025,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C089,Non-planar polymer-based flexible electronics fabricated by a four-axis additive manufacturing process,2021,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C090,Brief Paper: Judicious Hybridization of Incremental Forming and Additive Manufacturing to Enhance Product Complexity Through Non-Planar Substrate/Deposition,2024,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C091,Curved layering and path planning of continuous fiber composites based on multi-direction slicing for robotic additive manufacturing,2025,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C092,Curved surface slicing algorithm of additive manufacturing digital model based on the combination of inner and outer bounding box and projection method,2025,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C093,Research on slicing and path generation method for conformal additive manufacturing of curved multilayer circuits,2024,A,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C094,Multiscale 3D printing via active nozzle size and shape control,2024,A;B,否,相关性较低/主题重复,否,否,否,否,
+C095,"Frontiers in construction 3D printing: self-monitoring, multi-robot, drone-assisted processes",2024,A;C,否,相关性较低/主题重复,否,否,否,否,
+C096,Inverse Design Tool for Asymmetrical Self-Rising Surfaces with Color Texture,2020,A;D,否,相关性较低/主题重复,否,否,否,否,
+C097,Future of additive manufacturing: Overview of 4D and 3D printed smart and advanced materials and their applications,2020,A;C,否,相关性较低/主题重复,否,否,否,否,
+C098,Recent Inventions in Additive Manufacturing: Holistic Review,2023,A;C,否,相关性较低/主题重复,否,否,否,否,
+C099,Extrusion and Microfluidic‐Based Bioprinting to Fabricate Biomimetic Tissues and Organs,2020,A;B,否,相关性较低/主题重复,否,否,否,否,
+C100,A comprehensive literature review of the applications of AI techniques through the lifecycle of industrial equipment,2023,A;C;D;E,是,,是,是,是,是,
+C101,Advanced Applications of Industrial Robotics: New Trends and Possibilities,2021,A;C;D;E,是,,是,是,是,是,
+C102,Reinforcement learning and optimization based path planning for thin-walled structures in wire arc additive manufacturing,2023,A;D,否,相关性较低/主题重复,否,否,否,否,
+C103,Roadmap for additive manufacturing of HAYNES® 282® superalloy by laser beam powder bed fusion (PBF-LB) technology,2021,A;C,否,相关性较低/主题重复,否,否,否,否,
+C104,Deep reinforcement learning based toolpath generation for thermal uniformity in laser powder bed fusion process,2023,A;C,否,相关性较低/主题重复,否,否,否,否,
+C105,Digital design and parametric study of 3D concrete printing on non-planar surfaces,2022,A;B,否,相关性较低/主题重复,否,否,否,否,
+C106,"Electrostatic Distortion of Melt‐Electrowritten Patterns by 3D Objects: Quantification, Modeling, and Toolpath Correction",2021,A;B,否,相关性较低/主题重复,否,否,否,否,
+C107,Non-planar granular 3D printing,2023,A;B,否,相关性较低/主题重复,否,否,否,否,
+C108,Optimization of curved layer fused deposition modeling process parameters to enhance surface finish,2025,A;B;D,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C109,Additive manufacturing of advanced ceramic materials,2020,B;C,否,相关性较低/主题重复,否,否,否,否,
+C110,A cylindrical slicing algorithm for four-axis non-planar bioprinting of complex geometries,2025,A;B,否,相关性较低/主题重复,否,否,否,否,
+C111,Enhancing the Strength of 3D-Printed Polymer Exoprosthetic Socket by Localized Non-Planar Continuous Carbon Fiber Reinforcement,2025,A;B,否,相关性较低/主题重复,否,否,否,否,
+C112,3D-printing-assisted flexible pressure sensor with a concentric circle pattern and high sensitivity for health monitoring,2023,B;C,否,相关性较低/主题重复,否,否,否,否,
+C113,The mechanical testing and performance analysis of polymer-fibre composites prepared through the additive manufacturing,2020,B;C,否,相关性较低/主题重复,否,否,否,否,
+C114,"Macro-, meso- and microstructural characterization of metallic lattice structures manufactured by additive manufacturing assisted investment casting",2021,B;E,是,,否,是,是,是,
+C115,"Concurrent geometrico-topological tuning of nanoengineered auxetic lattices fabricated by material extrusion for enhancing multifunctionality: Multiscale experiments, finite element modeling and data-driven prediction",2024,B;D,否,相关性较低/主题重复,否,否,否,否,
+C116,Looping: Load-oriented optimized paths in non-planar geometry,2024,A;B,否,相关性较低/主题重复,否,否,否,否,
+C117,Improving Buildability of Overhangs of 3D Printed Objects Through Non-Planar Slicing Informed by Force Flow Analysis,2023,A;B,否,相关性较低/主题重复,否,否,否,否,
+C118,Optimal Strategies for Filament Orientation in Non-Planar 3D Printing,2024,A;B,否,相关性较低/主题重复,否,否,否,否,
+C119,Deep learning enabled inverse design in nanophotonics,2020,B;D,否,相关性较低/主题重复,否,否,否,否,
+C120,In situ characterization of material extrusion printing by near-infrared spectroscopy,2023,B;C,否,相关性较低/主题重复,否,否,否,否,
+C121,Contact-force-based closed-loop control of shell structure additive manufacturing with continuous-fiber-reinforced polymer composites,2024,C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C122,Recent Progress on Polymer Materials for Additive Manufacturing,2020,C;D,否,相关性较低/主题重复,否,否,否,否,
+C123,Improving ceramic additive manufacturing via machine learning‐enabled closed‐loop control,2021,C,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C124,Digital Twin-enabled Collaborative Data Management for Metal Additive Manufacturing Systems,2020,C;E,是,,是,是,否,否,
+C125,Material Extrusion 3D Printing of PEEK-Based Composites,2023,B;C,否,相关性较低/主题重复,否,否,否,否,
+C126,Utilizing PBF-LB/M AlSI10Mg alloy post-processed via KOBO-extrusion and subsequent cold drawing to obtain high-strength wire,2025,B;C,否,相关性较低/主题重复,否,否,否,否,
+C127,Ensuring supply chain integrity for material extrusion 3D printed polymer parts,2023,B;C,否,相关性较低/主题重复,否,否,否,否,
+C128,Artificial Intelligence‐Augmented Additive Manufacturing: Insights on Closed‐Loop 3D Printing,2024,C;E,是,,是,是,否,否,
+C129,A digital twin ecosystem for additive manufacturing using a real-time development platform,2022,C;D,否,相关性较低/主题重复,否,否,否,否,
+C130,Biomaterials for extrusion-based bioprinting and biomedical applications,2024,B;C,否,相关性较低/主题重复,否,否,否,否,
+C131,Detection of Material Extrusion In-Process Failures via Deep Learning,2020,B;C,否,相关性较低/主题重复,否,否,否,否,
+C132,Numerical simulation of the complex flow during material extrusion in fused filament fabrication,2021,B;C,否,相关性较低/主题重复,否,否,否,否,
+C133,Enhanced Dimensional Accuracy of Material Extrusion 3D-Printed Plastics through Filament Architecture,2021,B;C,否,相关性较低/主题重复,否,否,否,否,
+C134,In‐line measurement and characterization in glass bead‐filled polypropylene extrusion based on machine vision,2022,B;C;E,是,,是,是,是,是,DOI或PDF缺失项已标待核验
+C135,Research on a Support-Free Five-Degree-of-Freedom Additive Manufacturing Method,2024,A;D,否,相关性较低/主题重复,否,否,否,否,
+C136,Predictions of Additive Manufacturing Process Parameters and Molten Pool Dimensions with a Physics-Informed Deep Learning Model,2023,B;D,否,相关性较低/主题重复,否,否,否,否,
+C137,Machine Learning for Additive Manufacturing,2021,D;E,是,,是,是,是,否,
+C138,3D printed elastomers with superior stretchability and mechanical integrity by parametric optimization of extrusion process using Taguchi Method,2024,B;D,否,相关性较低/主题重复,否,否,否,否,
+C139,Machine Learning-enabled feedback loops for metal powder bed fusion additive manufacturing,2020,C;D,否,相关性较低/主题重复,否,否,否,否,
+C140,Predicting mechanical property plateau in laser polymer powder bed fusion additive manufacturing via the critical coalescence ratio,2021,C;D,否,相关性较低/主题重复,否,否,否,否,
+C141,Inverse design of multi-material gyroid structures made by additive manufacturing,2023,D,否,相关性较低/主题重复,否,否,否,否,DOI或PDF缺失项已标待核验
+C142,Toward data-driven research: preliminary study to predict surface roughness in material extrusion using previously published data with machine learning,2023,B;D,否,相关性较低/主题重复,否,否,否,否,
+C143,"Cell viability in extrusion bioprinting: the impact of process parameters, bioink rheology, and cell mechanics",2025,B;D,否,相关性较低/主题重复,否,否,否,否,
+C144,FDM 3D printing surface quality optimisation: multi-objective parameter control based on hybrid machine learning and response surface methodology,2025,B;D,否,相关性较低/主题重复,否,否,否,否,
+C145,A computational study for batch-level diagnostics in industrial extrusion using interpretable machine learning and counterfactual analysis,2026,B;D,否,相关性较低/主题重复,否,否,否,否,
